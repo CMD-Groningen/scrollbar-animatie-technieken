@@ -20,17 +20,19 @@ p {
     height: 100vh;
     display: grid;
     place-items: center;
+    /* voor de css3 inview scroll animaties! */
+    overflow: clip;
 
 }
 
 .scene1 {
     background: #3e6994;
-    overflow: hidden;
+
 }
 
 .scene2 {
     background: #ad0000;
-    overflow: hidden;
+
 }
 
 .scene3 {
@@ -138,7 +140,7 @@ p {
     animation-fill-mode: both;
     animation-duration: auto;
     animation-timeline: view();
-    animation-range-start: 0%;
+    animation-range-start: entry;
     animation-range-end: 50%;
 }
 
