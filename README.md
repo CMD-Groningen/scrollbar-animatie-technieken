@@ -4,7 +4,7 @@ Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Gron
 Preview in de browser? [Klik hier](https://cmd-groningen.github.io/scrollbar-animatie-technieken)  
 Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/scrollbar-animatie-technieken) 
 
-PS: Addendum: sinds 2023 vorig jaar is er ook een manier om scrolling animaties te maken met alleen CSS, zonder JavaScript!! Dit wordt NIET in onderstaande voorbeelden gebruikt.
+PS: Addendum: sinds 2023 vorig jaar is er ook een manier om scrolling animaties te maken met **alleen CSS, zonder JavaScript!** Hier is een simpel voorbeeld van te zien in deze oefeningen.
 
 Er zijn dus 3 manieren van animaties maken:
 1. CSS keyframe animaties met JavaScript "gelijk laten lopen" met de scrollbar, scroll afstand = animatie lengte.
